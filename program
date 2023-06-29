@@ -6,7 +6,7 @@ import java.util.HashMap;
 public class Program {
     private static HashMap <Integer, Object> hashMap = new HashMap<>();
     private static final Object PRESENT  = new Object();
-    public static void main(String[] args) throws Exception {
+public static void main(String[] args) throws Exception {
         add(11);
         add(22);
         add(33);
